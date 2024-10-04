@@ -30,7 +30,7 @@
                     VALUES ('$npm', '$nama', '$alamat', '$tanggal_lahir', '$jenis_kelamin', '$email')";    
             //jalankan query sql
             if ($conn->query($sql) === TRUE) {
-                echo "<script> alert('New record created successfully') </script>";
+                echo "<script> alert('Data berhasil ditambahkan!') </script>";
             } 
             else {
                 echo "Error: " . $sql. "<br>" . $conn->error;
