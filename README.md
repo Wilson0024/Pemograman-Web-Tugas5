@@ -1,6 +1,6 @@
-# Web Programming Assignments 4
+# Web Programming Assignments 5
 
-Welcome to my web programming assignments 4 repository!
+Welcome to my web programming assignments 5 repository!
 
 ![Banner](https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif)
 
@@ -56,8 +56,9 @@ This project demonstrates a **CRUD (Create, Read, Update, Delete)** application 
 
 ### Example Output
 
-After inserting or updating records, the application provides feedback messages to inform the user of successful operations. 
+After inserting, updating, or deleting records, the application provides feedback messages to inform the user of successful operations. 
 
 ```plaintext
 Data berhasil ditambahkan! 
 Data berhasil diupdate!
+Data berhasil dihapus!
