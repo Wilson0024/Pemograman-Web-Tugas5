@@ -40,6 +40,7 @@ This project demonstrates a **CRUD (Create, Read, Update, Delete)** application 
 ### How It Works
 1. **index.php**:
    - When the user navigates to this page, a list of records is displayed in a table.
+   - Users can click a button to delete an existing data.
    - Users can click a button to add a new record, which redirects them to **insert.php**.
    - Each record also includes an option to edit, redirecting the user to **update.php** with the selected NPM.
 
