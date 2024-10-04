@@ -15,12 +15,12 @@ Welcome to my web programming assignments 5 repository!
 
 ## Project Description
 
-This project demonstrates a **CRUD (Create, Read, Update, Delete)** application using **PHP** and **MySQL**. The application consists of three main components: **index.php**, **insert.php**, and **update.php**. It allows users to manage personal information by adding, viewing, and updating records.
+This project demonstrates a **CRUD (Create, Read, Update, Delete)** application using **PHP** and **MySQL**. The application consists of three main components: **index.php**, **insert.php**, and **update.php**. It allows users to manage personal information by adding, viewing, updating, and deleting records.
 
 ### Features
 - **index.php**: 
   - Displays a list of all records in a table format.
-  - Provides options to add a new record or update existing ones.
+  - Provides options to add a new record, update or delete existing ones.
   
 - **insert.php**:
   - Contains an HTML form to input personal information such as:
